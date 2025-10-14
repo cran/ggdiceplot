@@ -1,6 +1,6 @@
 Package: ggdiceplot
 Title: Dice Plot Visualization for 'ggplot2'
-Version: 0.1.0
+Version: 0.1.1
 Authors@R: 
     person(
         given = "Matthias", 
@@ -27,6 +27,6 @@ Imports: ggplot2 (>= 3.4.0), grid, legendry, scales
 LazyData: true
 Depends: R (>= 4.1.0), dplyr
 NeedsCompilation: no
-Packaged: 2025-08-18 15:03:41 UTC; matthiasflo
+Packaged: 2025-10-14 10:13:35 UTC; matthiasflo
 Repository: CRAN
-Date/Publication: 2025-08-21 20:02:06 UTC
+Date/Publication: 2025-10-14 10:30:02 UTC

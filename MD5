@@ -1,11 +1,12 @@
-7252f5db5e06a64d9969069bd3ae0e67 *DESCRIPTION
+b1a93cc3c6b20688345bed0fcf8a007d *DESCRIPTION
 333c7069f0b98198bdccb5e919bbd1ba *LICENSE
 5b03cf507e135bbf29224a950e098611 *NAMESPACE
 4c3b62231aba2b1802afb744139c6395 *R/geom-dice-ggproto.R
+a466381ba9f63796f4ed0173197c6f06 *R/geom-dice-ggprotto.R
 dc6236464c7ded729763cbd8b77b4685 *R/geom-dice.R
 3a2fbe1950ef4ab2f709f0712907f70a *R/ggdiceplot-package.R
-27cebd47f7aa293833f84f2f86f53632 *R/utils.R
-12a3ca67969ed88d91c33a986d119fab *README.md
+0b2473826742f249d6d8b51950e7e3a8 *R/utils.R
+899e340dadec5a22a2950ebd9c7ca9ff *README.md
 2593a5bffc2e7806f7934ecb4ab6a572 *data/sample_dice_data1.rda
 3853a6f63a9564d302f5ec388b6afcb2 *data/sample_dice_data2.rda
 8ee2c61d3c5b57c74cf6e5a13c2005ab *data/sample_dice_large.rda
