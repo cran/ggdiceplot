@@ -1,6 +1,6 @@
 Package: ggdiceplot
 Title: Dice Plot Visualization for 'ggplot2'
-Version: 0.1.1
+Version: 1.0.1
 Authors@R: 
     person(
         given = "Matthias", 
@@ -9,8 +9,6 @@ Authors@R:
         role = c("aut", "cre"),
         comment = c(ORCID = "0009-0006-4374-0801")
     )
-Author: Matthias Flotho [aut, cre] (ORCID:
-    <https://orcid.org/0009-0006-4374-0801>)
 Maintainer: Matthias Flotho <matthias.flotho@ccb.uni-saarland.de>
 Description: Provides 'ggplot2' extensions for creating dice-based visualizations 
     where each dot position represents a specific categorical variable. The package 
@@ -20,13 +18,15 @@ Description: Provides 'ggplot2' extensions for creating dice-based visualization
     intuitive visualization of up to 6 categorical variables simultaneously.
 License: MIT + file LICENSE
 Encoding: UTF-8
-RoxygenNote: 7.3.2
+RoxygenNote: 7.3.3
 URL: https://github.com/maflot/ggdiceplot
 BugReports: https://github.com/maflot/ggdiceplot/issues
-Imports: ggplot2 (>= 3.4.0), grid, legendry, scales
+Imports: ggplot2 (>= 3.4.0), grid, dplyr, legendry, scales
 LazyData: true
-Depends: R (>= 4.1.0), dplyr
+Depends: R (>= 4.1.0)
 NeedsCompilation: no
-Packaged: 2025-10-14 10:13:35 UTC; matthiasflo
+Packaged: 2025-12-08 15:22:58 UTC; matthiasflo
+Author: Matthias Flotho [aut, cre] (ORCID:
+    <https://orcid.org/0009-0006-4374-0801>)
 Repository: CRAN
-Date/Publication: 2025-10-14 10:30:02 UTC
+Date/Publication: 2025-12-08 15:40:06 UTC
