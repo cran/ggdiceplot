@@ -1,8 +1,8 @@
-95515f944c7e8f612e4582c81aececcd *DESCRIPTION
+069c2631f056bf1af178a899d7d29e51 *DESCRIPTION
 f7ebbb3d2401bd30b1d9f6f45fbaaf81 *LICENSE
-922e5d95bf0d995f8e991ab0292cec0f *NAMESPACE
-ea17a0842243f77aadc5392aaefab6a9 *NEWS.md
-fbfcc8c0dfdc7bf2b47f42fbc66f6ceb *R/geom-dice-ggprotto.R
+9b983200e88e0ebbc77004139c2a38f4 *NAMESPACE
+bad26892ac2100a2592138b0a10fb5bb *NEWS.md
+258bdac3d9fa22755d62e4949e9bbd5e *R/geom-dice-ggprotto.R
 51ffeaef23b775847152d55879143fd0 *R/geom-dice.R
 3db129dcc394511ba52420f9a9b14303 *R/ggdiceplot-package.R
 6df4c43ef1c13399fa3a8b8743277edd *R/sample_dice_data1.R
@@ -15,6 +15,7 @@ f1150daa48d720d166d41d613e70359c *R/sample_dice_miRNA.R
 4c3fc9b7e1c34fb10247f44587c09612 *data/sample_dice_data2.rda
 8ee2c61d3c5b57c74cf6e5a13c2005ab *data/sample_dice_large.rda
 0a05cf5713d0367ceca1a2c30238a3d3 *data/sample_dice_miRNA.rda
+0b659acb815947e46c35bed4ada1f4b0 *inst/CITATION
 fce180e7ffc9ca6d0f66cc62a104e979 *man/create_dice_positions.Rd
 7ccda47330600752036d359c54850d57 *man/geom_dice.Rd
 e346db4c28a1d72e66b8a50856a1cba5 *man/ggdiceplot-package.Rd
